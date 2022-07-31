@@ -8,3 +8,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Java
 - 📫 How to reach me: ... Here! 
 - ⚡ Fun fact: ... I lead a fundraiser 
+
+
+<img src= "https://github-readme-stats.vercel.app/api?username=Yvangelion&&show_icons=true&title_color=FFFFFF&icon_color=4C64B7&text_color=FFFFFF&bg_color=151515" >
